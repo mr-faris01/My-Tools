@@ -28,3 +28,13 @@ $sh mytools.sh
 TOOLS INI MASIH DALAM PENGEMBANGAN
 
 PASSWORDNYA : farislana01
+
+
+
+Screenshot_20200610-231146.png
+
+
+
+
+
+
