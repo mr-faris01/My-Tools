@@ -16,4 +16,5 @@ $cd My-Tools
 $sh mytools.sh
 
 TOOLS INI MASIH DALAM PENGEMBANGAN
-PASSWORNYA : farislana01
+
+PASSWORDNYA : farislana01
